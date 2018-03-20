@@ -14,7 +14,6 @@ public class MyStepdefs {
 
     private Animal myDog;
     private String animalSound;
-//test
 
     @Given ("^I have a dog")
     public void iHaveADog(){
