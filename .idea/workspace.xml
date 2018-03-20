@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7eefe940-f5db-4b7e-9e6f-2c03bba17f9e" name="Default" comment="Commit" />
+    <list default="true" id="7eefe940-f5db-4b7e-9e6f-2c03bba17f9e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,15 +36,16 @@
       <file leaf-file-name="MyStepdefs.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestTut/MyStepdefs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="330">
+              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding>
-                <element signature="e#418#419#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#670#671#0" expanded="true" />
-                <element signature="e#719#720#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
+                <element signature="e#726#727#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -146,6 +147,7 @@
         <option value="$PROJECT_DIR$/src/main/java/TestTut/FirstPackage/Animal.java" />
         <option value="$PROJECT_DIR$/src/test/java/MyStepdefs.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/TestTut/MyStepdefs.java" />
       </list>
     </option>
   </component>
@@ -527,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521505613202</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1521505747547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1521505747547</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -593,7 +602,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -852,15 +862,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestTut/MyStepdefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="330">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding>
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
           </folding>
         </state>
       </provider>
